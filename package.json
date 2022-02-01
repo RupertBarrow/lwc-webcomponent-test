@@ -1,6 +1,6 @@
 {
   "name": "@wcd/rupertbarrow.lwc-kz4ghqop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve HXerC0ccae209yr6v8mi --open"
   }
